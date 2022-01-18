@@ -1,0 +1,71 @@
+5
+CSC1002
+Ky Thuat Lap Trinh
+19CLC7
+dbtien
+Dinh Ba Tien
+Tien Si
+0
+2020 08 01
+2020 10 03
+2
+07 30
+11 30
+I42
+
+PHY005
+Vat Ly Dai Cuong 1
+19CLC7
+ntoan
+Nguyen Toan
+Giao su
+0
+2020 04 14
+2020 06 16
+3
+07 30
+11 30
+I44
+
+PHY004
+Vat Ly Dai Cuong 1
+19CLC7
+nnkngan
+Nguyen Ngoc Kim Ngan
+Giao Su
+1
+2020 14 04
+2020 14 04
+3
+07 30
+11 30
+I44
+
+BAA00005
+Kinh Te Dai Cuong
+19CLC7
+pxkien
+Pham Xuan Kien
+Giao Su
+0
+2020 04 15
+2020 06 17
+4
+07 30
+09 30
+F203
+
+PSY00001
+Tam Ly Hoc Dai Cuong 1
+19CLC7
+ttkhai
+Tran Tuan Khai
+Giao Su
+0
+2020 04 01
+2020 06 03
+7
+13 30
+17 30
+I203
+

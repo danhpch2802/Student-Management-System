@@ -1,0 +1,2 @@
+In your IDE, choose x86 Debugging tool to build the program (In visual studio 2019 on the top bar where the Local Windows Debugger button is located, choose Debug and x86 on its left side)
+If you only want to run the program, you can use the StudentManagementProgram.exe in the project directory (StudentManagementProgram)
